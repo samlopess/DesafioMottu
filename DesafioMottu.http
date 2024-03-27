@@ -1,0 +1,6 @@
+@DesafioMottu_HostAddress = http://localhost:5229
+
+GET {{DesafioMottu_HostAddress}}
+Accept: application/json
+
+###
